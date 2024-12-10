@@ -1,6 +1,6 @@
 # Simple Developer Portfolio Template
 
-![Project Preview](portfolio_preview.jpg)
+![Project Preview](preview.jpg)
 
 ## Description
 
