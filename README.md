@@ -30,7 +30,7 @@ To use this template, follow these steps:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/OmMavani/simple-portfolio-template.git
+    git clone https://github.com/om23aas/om23aas.github.io.git
     ```
 2. **Customize the Content**: Replace the placeholder content with your own details, including projects, skills, and contact information.
 3. **Deploy**: Upload the project to GitHub Pages or any hosting platform of your choice.
