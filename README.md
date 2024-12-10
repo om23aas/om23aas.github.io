@@ -28,16 +28,21 @@ Check out the live preview of the Simple Developer Portfolio [here](https://hhli
 
 To use this template, follow these steps:
 
-1. **Clone the Repository**: 
+1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/hhlitval/simple-portfolio-template.git
+    git clone https://github.com/OmMavani/simple-portfolio-template.git
     ```
-2. **Customize the Content**
-3. **Deploy**.
+2. **Customize the Content**: Replace the placeholder content with your own details, including projects, skills, and contact information.
+3. **Deploy**: Upload the project to GitHub Pages or any hosting platform of your choice.
 
 ## Todo
 
 - **Contact Form**: Implement the functionality to send messages from the contact form. You can use an email service or integrate with a backend solution.
+
+## License
+
+This project is licensed under the MIT License. You are free to use, modify, and distribute this template for personal and commercial purposes.
+
 
 ## License
 
