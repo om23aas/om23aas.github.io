@@ -8,11 +8,9 @@ This is a very simple, but elegant responsive portfolio template built using pla
 
 ## Table of Contents
 
-- [Features](#features)
-- [Live Preview](#live-preview)
-- [Usage](#usage)
-- [Todo](#todo)
-- [License](#license)
+- About
+- Project
+- Contact
 
 ## Features
 
@@ -34,14 +32,6 @@ To use this template, follow these steps:
     ```
 2. **Customize the Content**: Replace the placeholder content with your own details, including projects, skills, and contact information.
 3. **Deploy**: Upload the project to GitHub Pages or any hosting platform of your choice.
-
-## Todo
-
-- **Contact Form**: Implement the functionality to send messages from the contact form. You can use an email service or integrate with a backend solution.
-
-## License
-
-This project is licensed under the MIT License. You are free to use, modify, and distribute this template for personal and commercial purposes.
 
 
 ## License
